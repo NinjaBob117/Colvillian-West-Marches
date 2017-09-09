@@ -149,14 +149,16 @@ Questing is the primary source of experience and gold in the campaign. You may j
 
 ### Quest Format ###
 
-``` Name: <Quest Name>
+```
+Name: <Quest Name>
 Time and Date: <Time Zone / Time>
 Run time estimation: 100 hours Type: <Exploration/RP/Town/Raid>
 Recommended Level: <Level Range: i.e: Level 13-24>
 Slot: <Insert Number>
 Signup Deadline: <date>
 Signup: Open/Closed (DMs List the players once the application is closed)
-Roll20 Game link if played on R20: <link> ```
+Roll20 Game link if played on R20: <link>
+```
 
 DMs are to prioritize players that have played less frequently. They should also not list players that have signed up until the close date for signups, so that players are not discouraged from signing up. When you message a DM to request joining their Quest, include the date of the last game you played.
 
