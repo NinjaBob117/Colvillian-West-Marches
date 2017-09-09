@@ -301,7 +301,7 @@ Legendary
 DM Rewards
 Without our DMs we would not be able to run this awesome campaign. DMs are rewarded for running sessions in the following ways.
 • The DM is awarded 1/2 the XP that each character receives.
-• The DM is awarded 1/2 the GP that each character receives.
+• The DM is awarded [((15 x sum of levels x days)/players)/2] regardless of the amount of gold players get.
 DM No Show
 If you do not show up for a game the characters signed up for the quest receive rewards. This is true for short notice cancelations and no shows.
 Canceled Game XP Reward
