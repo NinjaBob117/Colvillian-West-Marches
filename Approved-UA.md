@@ -70,6 +70,13 @@
 ### Weapon Mastery / Tool Feats ###
 
 - Spear Mastery
+- Fell-Handed
+- Blade Mastery
+- Flail Mastery
+- Alchemist
+- Burgler
+- Gourmand
+- Master of Disguise
 
 ### Racial Feats ###
 
@@ -79,6 +86,23 @@
 - Drow High Magic
 - Dwarf Resiliance
 - Fey Teleportation
+- Orcish Aggression
 - Orcish Fury
+- Prodigy
+- Second Chance
+- Squat Nimbleness
 - Wood Elf Magic
+
+## Spells ##
+
+### Cantrips ###
+
+- Hand of Radiance
+- Infestation
+
+### 1st Level ###
+
+- Chaos Bolt
+- Sudden Awakening
+- Unearthly Chorus
 
